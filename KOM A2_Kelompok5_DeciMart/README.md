@@ -10,7 +10,8 @@ Proyek Praktikum Probabilitas dan Statistika
 ### Dataset
 olist brazilian-ecommerce
 
-notes : ada satu file csv yang tidak bisa diupload dikarenakan file nya terlalu besar yaitu olist_geolocation_dataset
+notes : tidak semua file csv diupload dikarenakan jumlah file besar jadi sebgaian saja
+untuk lebih jelas di presentasi dan lihat di link sumber dataset
 
 Sumber dataset:
 https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
